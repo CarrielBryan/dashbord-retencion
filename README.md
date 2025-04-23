@@ -4,7 +4,6 @@ Este proyecto es un **dashboard interactivo** desarrollado con **Python, SQLite 
 
 ## Capturas del Dashboard
 
-> Aquí puedes añadir imágenes del dashboard en funcionamiento, por ejemplo:
 
 ![Dashboard Retención](cap_dashboard.png)
 )
